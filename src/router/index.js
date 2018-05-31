@@ -82,7 +82,7 @@ export default new Router({
           children: [
             {
               path: 'colors',
-              name: 'Colors',
+              name: 'Colors xxx',
               component: Colors
             },
             {

@@ -11,7 +11,7 @@ export default {
     },
     {
       title: true,
-      name: 'Theme',
+      name: 'Usuario',
       class: '',
       wrapper: {
         element: '',
@@ -19,18 +19,18 @@ export default {
       }
     },
     {
-      name: 'Colors',
+      name: 'Perfil',
       url: '/theme/colors',
       icon: 'icon-drop'
     },
     {
-      name: 'Typography',
+      name: 'Configuracion',
       url: '/theme/typography',
       icon: 'icon-pencil'
     },
     {
       title: true,
-      name: 'Components',
+      name: 'Proyectos',
       class: '',
       wrapper: {
         element: '',

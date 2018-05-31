@@ -2,7 +2,7 @@
   <div class="animated fadeIn">
     <b-card header-tag="header">
       <div slot="header">
-        <i class="icon-drop"></i> Theme colors
+        <i class="icon-drop"></i> Theme colors xxx
       </div>
       <b-card-body>
         <b-row>
